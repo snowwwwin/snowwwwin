@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @snowwwwin
+- 👀 I’m interested in scripts or scripting and cheats
+- 🌱 I’m currently learning lua language
+- ⚡ Fun fact: I love game and hating she :)
